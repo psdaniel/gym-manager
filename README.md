@@ -2,7 +2,13 @@
 
 O Gym Manager, como o próprio nome diz, é um Gerenciador de Academia. Ele faz uma gestão eficaz dos instrutores e dos membros e possui as funcionalidades necessárias para tal: listagem, filtragem e relacionamento entre os diferentes dados.
 
-## Aba dos Instrutores
+#### Tecnologias utilizadas
+- NodeJS
+- PostgreSQL
+- Nunjucks
+- HTML5 
+- CSS3
+- JavaScript
 
 ## Screenshots
 
@@ -13,10 +19,3 @@ O Gym Manager, como o próprio nome diz, é um Gerenciador de Academia. Ele faz 
 ![imagem](https://raw.githubusercontent.com/psdaniel/assets/master/gym-manager/2020-07-23%20(8).png)
 
 
-#### Tecnologias utilizadas
-- NodeJS
-- PostgreSQL
-- Nunjucks
-- HTML5 
-- CSS3
-- JavaScript
