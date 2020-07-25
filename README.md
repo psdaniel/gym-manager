@@ -1,6 +1,6 @@
 # Gym Manager
 
-O Gym Manager, como o próprio nome diz, é um Gerenciador de Academia. Ele faz uma gestão eficaz dos instrutores e dos membros e possui as funcionalidades necessárias para tal: listagem, filtragem e relacionamento entre os diferentes dados. A aplicação foi desenvolvida utilizando NodeJS e o banco de dados utilizado foi PostgreSQL.
+O Gym Manager, como o próprio nome diz, é um Gerenciador de Academia, trata-se de uma aplicação desenvolvida no Launchbase da Rocketseat. Ele faz uma gestão eficaz dos instrutores e dos membros e possui as funcionalidades necessárias para tal: listagem, filtragem e relacionamento entre os diferentes dados. A aplicação foi desenvolvida utilizando NodeJS e o banco de dados utilizado foi PostgreSQL.
 
 #### Tecnologias utilizadas
 - NodeJS
